@@ -16,6 +16,7 @@ public class MasterMind {
 		inicializarTablero ();
 		resultado = new int [15][2];
 		inicializarResultado ();
+		System.out.println("hola");
 //		numPartidas++;
 	}
 	
